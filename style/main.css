@@ -1,0 +1,61 @@
+/*MAIN StyleSheet*/
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section { display: block; }
+html {
+	
+	background-color: #33FFEC    ;
+}
+h1 {
+	font-family: 'Barlow Condensed', sans-serif;
+	background-color: yellow;
+	text-align:center;
+	position:relative;
+}
+#imgfleche1 {
+	width:100px;
+	height:50px;
+}
+#imgfcroix {
+	width:40px;
+	height:30px;
+}
+#imgfleche2 {
+	width:100px;
+	height:50px;
+}
+#tab {
+	background-color:gray;
+
+}
+#para {
+	background-color: gray;
+}
+#ng-app {
+	background-color: red;
+}
+#ng-controller {
+	background-color: blue;
+}
+#musique {
+	background-color: gray;
+}
+
+#imgrecherche {
+	width:100px;
+	height:50px;
+}
+#imgsoleil {
+	width:200px;
+	height:100px;
+}
+#plus {
+	width:40px;
+	height:30px;
+}
+#imghorloge {
+	width:200px;
+	height:100px;
+}
+#pied {
+	background-color: black;
+}
